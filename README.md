@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/1697614/137432336-409046d5-2c13-41a8-8f10-0b83990f480d.png)
+# Devil's Cotton Mod
 
 Source installation information for modders
 -------------------------------------------
