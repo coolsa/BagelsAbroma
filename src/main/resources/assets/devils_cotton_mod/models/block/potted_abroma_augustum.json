@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/flower_pot_cross",
   "textures": {
-    "plant": "bagels_abroma:block/abroma_augustum"
+    "plant": "devils_cotton_mod:block/abroma_augustum"
   }
 }

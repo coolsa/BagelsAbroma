@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "bagels_abroma:block/abroma_augustum"
+    "layer0": "devils_cotton_mod:block/abroma_augustum"
   }
 }
