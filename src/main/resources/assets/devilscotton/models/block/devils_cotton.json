@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "devilscotton:block/devils_cotton"
+  }
+}
